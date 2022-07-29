@@ -1,0 +1,45 @@
+https://code.visualstudio.com/ (install)
+https://nodejs.org/en/ (install)
+https://git-scm.com/downloads (install)
+https://github.com/ (create account)
+https://github.com/Aakashdeveloper (Follow)
+
+//Extensin to VS
+> vscode-icons
+> tabnine
+> gitlens
+> githistory
+> spell check 
+
+///Add to chrome
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+
+HTML   >>>>> Raw Structure
+CSS    >>>>> Design
+BOOTStarp >>>>> Responsive
+JavaScript >>>> Dynamic
+Node+express+mongo >>>>>> Backend of the application
+React >>>>> Frontend
+
+
+HTML > Main is the main tag
+Head > help to link (Css, jS, title)
+body > what all content visual to user
+
+
+////////
+Block Level
+> Start from new Line
+> Occupies whole width of screen
+> p, div , section
+Inline element
+> Start in same line
+> only take the space which is requied
+> a, img, span
+
+src > source
+alt > alternate
+href > hyperReffernce
+
+//refer this file for setting up tools.
